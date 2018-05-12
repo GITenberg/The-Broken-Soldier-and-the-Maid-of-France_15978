@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/362
     wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15978#The-Broken-Soldier-and-the-Maid-of-France
 gutenberg_issued: '2005-06-03'
 gutenberg_type: Text
 identifiers:
